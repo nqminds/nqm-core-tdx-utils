@@ -1,0 +1,19 @@
+{
+  "name": "nqm-core-tdx-utils",
+  "version": "0.1.0",
+  "description": "TDX-specific utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqminds/nqm-core-tdx-utils.git"
+  },
+  "author": "toby.ealden@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqminds/nqm-core-tdx-utils/issues"
+  },
+  "homepage": "https://github.com/nqminds/nqm-core-tdx-utils#readme"
+}
